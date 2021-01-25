@@ -5,3 +5,6 @@ Painting metal, whether you photobash it or hand draw it, is always a complex pr
 The first and most obvious example I will demonstrate is a mirror. A mirror is simply a smooth, naturally reflective metal such as silver behind a piece of glass.
 
 It's very simple; the light rays that hit the mirror bounce off in the opposite angle in which it came from.
+
+![acfewafcew](https://user-images.githubusercontent.com/54787701/105760415-c180ca00-5f1f-11eb-9ec0-2ef64b27ae42.jpg)
+
