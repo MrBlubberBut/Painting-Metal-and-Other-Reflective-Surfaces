@@ -36,6 +36,12 @@ Where would the ball be in this case?
 
 ![htabhatbr](https://user-images.githubusercontent.com/54787701/105762671-aebbc480-5f22-11eb-83c8-5e08f060ad80.jpg)
 
+It's kind of a trick question: You wouldn't actually see it anywhere in the cube.
+
+![agveregvar](https://user-images.githubusercontent.com/54787701/105762906-0ce8a780-5f23-11eb-80de-594620774d77.jpg)
+
+This is where they would be, theoretically, if the veritcal and horizontal planes of the cube were extended.
+
 
 
 
